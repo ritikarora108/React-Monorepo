@@ -1,0 +1,21 @@
+[submodule "01-app"]
+	path = 01-app
+	url = ./01-app/
+[submodule "02-hello-ts"]
+	path = 02-hello-ts
+	url = ./02-hello-ts/
+[submodule "03customReact"]
+	path = 03customReact
+	url = ./03customReact/
+[submodule "04vite-react"]
+	path = 04vite-react
+	url = ./04vite-react/
+[submodule "05_hooks"]
+	path = 05_hooks
+	url = ./05_hooks/
+[submodule "06_Tic_Tac_Toe"]
+	path = 06_Tic_Tac_Toe
+	url = ./06_Tic_Tac_Toe/
+[submodule "07_api_calling"]
+	path = 07_api_calling
+	url = ./07_api_calling/
