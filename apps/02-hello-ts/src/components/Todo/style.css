@@ -1,0 +1,6 @@
+.todo-container{
+    width:200px;
+    border: 2px dashed tomato;
+    margin: 20px;
+    padding-right: 20px;
+}
